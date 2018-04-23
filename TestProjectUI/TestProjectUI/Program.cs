@@ -12,7 +12,7 @@ namespace TestProjectUI
         {
             // The following is the show Hello World to the end-user.
             // This is my new comment.
-            // MAKE SURE THAT YOU ALWYAS SYNC AND COMMIT
+            // MAKE SURE THAT YOU ALWAYS SYNC AND COMMIT
             Console.WriteLine("Hello World!!!1!");
             Console.WriteLine("Why did you put a 1 in your !'s ?");
             Console.Write("Cuz I want!!1!");
