@@ -12,6 +12,7 @@ namespace TestProjectUI
         {
             // The following is the show Hello World to the end-user.
             // This is my new comment.
+            // MAKE SURE THAT YOU ALWYAS SYNC AND COMMIT
             Console.WriteLine("Hello World!!!1!");
         }
     }
